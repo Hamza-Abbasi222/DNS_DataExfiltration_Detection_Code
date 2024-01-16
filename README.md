@@ -1,2 +1,3 @@
 # DNS_DataExfiltration_Detection_Code
-Lightweight Hybrid Detection of Data Exfiltration using DNS based on Machine Learning,
+Lightweight Hybrid Detection of Data Exfiltration using DNS based on Machine Learning
+This code is associated with the dataset introduced in the research article 'Lightweight Hybrid Detection of Data Exfiltration using DNS based on Machine Learning,' authored by Samaneh Mahdavifar, Amgad Hanafy Salem, Princy Victor, Miguel Garzon, Amir H. Razavi, Natasha Hellberg, and Arash Habibi Lashkari. The dataset link is available at https://dl.acm.org/doi/abs/10.1145/3507509.3507520. While utilizing this dataset, I have incorporated amendments and enhancements for further refinement.
